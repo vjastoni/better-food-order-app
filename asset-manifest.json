@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/better-food-order-app/static/css/main.103bf916.css",
+    "main.js": "/better-food-order-app/static/js/main.77b30af6.js",
+    "static/media/meals.jpg": "/better-food-order-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/better-food-order-app/index.html",
+    "main.103bf916.css.map": "/better-food-order-app/static/css/main.103bf916.css.map",
+    "main.77b30af6.js.map": "/better-food-order-app/static/js/main.77b30af6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103bf916.css",
+    "static/js/main.77b30af6.js"
+  ]
+}
